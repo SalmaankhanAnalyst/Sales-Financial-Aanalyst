@@ -38,34 +38,57 @@ This project demonstrated my ability to turn raw data into actionable insights a
 <h2>📊 Dashboard Snapshot</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+customer net sales performance: <br/>
+<img src= https://i.postimg.cc/1tpx8Hdf/Screenshot-2025-07-14-184227.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<img src= https://i.postimg.cc/v8rxWxxn/Screenshot-2025-07-14-182920.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Market : <br/>
+<img src=https://i.postimg.cc/sXpx9bxz/Screenshot-2025-07-14-182940.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Top 10 product:  <br/>
+<img src=https://i.postimg.cc/PJ5Hp782/Screenshot-2025-07-14-182956.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+division level report :  <br/>
+<img src=https://i.postimg.cc/7Pt8tmzr/Screenshot-2025-07-14-183012.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Top 5 product :  <br/>
+<img src=https://i.postimg.cc/nh8WN5cg/Screenshot-2025-07-14-183027.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+New product 2021:  <br/>
+<img src=https://i.postimg.cc/26qJsfhp/Screenshot-2025-07-14-183044.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Top 5 Country 2021:  <br/>
+<img src=https://i.postimg.cc/5yKX6LjQ/Screenshot-2025-07-14-183059.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+P & L by fiscal year :  <br/>
+<img src=https://i.postimg.cc/HsJx6JV3/Screenshot-2025-07-14-183115.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+P & L by months:  <br/>
+<img src=https://i.postimg.cc/y8j8d051/Screenshot-2025-07-14-183143.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+P & L by for markets:  <br/>
+<img src=https://i.postimg.cc/L88MxwCS/Screenshot-2025-07-14-183158.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+GM% by Quaters(sub_zone):  <br/>
+<img src=https://i.postimg.cc/KvQ63QZH/Screenshot-2025-07-14-183217.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+GM% by Quaters(sub_zone):  <br/>
+<img src=https://i.postimg.cc/RFQs5VhD/Screenshot-2025-07-14-183229.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 <!--
  ```diff
 - text in red
